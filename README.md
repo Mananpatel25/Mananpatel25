@@ -21,8 +21,8 @@ Portfolio: **[mananpatel25.github.io](https://mananpatel25.github.io)**
 | [CodeCartographer](https://github.com/Mananpatel25/codecartographer) | Static-analysis CLI: dependency graph, circular imports, god modules, LLM Q&A over graph facts. Tested. | Python · Typer |
 
 ### Experience
-- **KeelWorks** (2026) — software engineer, data & ML: Airflow/dbt data layer with quality gates, KPI and A/B readouts, ML features served via FastAPI on AWS
+- **KeelWorks** (2026) — data engineer & analyst: Airflow/dbt data layer with quality gates, KPI and A/B readouts, ML features served via FastAPI on AWS
 - **Northeastern University** (2025–26) — applied research engineer: species classifier on hydrophone recordings (RF/SVM vs CNN-LSTM, ~93%), feature-extraction pipeline (FFT, MFCCs, spectrograms), published
-- **GetOnData Solutions** (2023–24) — software engineer, data & ML: K-Means/RFM segmentation (+24% retention), SARIMA/Prophet demand forecasting, PySpark/Airflow ETL into Snowflake
+- **GetOnData Solutions** (2023–24) — data engineer & analyst: K-Means/RFM segmentation (+24% retention), SARIMA/Prophet demand forecasting, PySpark/Airflow ETL into Snowflake
 
 📫 manrp2625@gmail.com
